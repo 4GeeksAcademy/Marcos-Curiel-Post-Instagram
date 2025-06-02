@@ -45,11 +45,16 @@ body{
     display: flex;
     
 }
-.heart, .comment {
+.comment {
     margin-right: 6px;
 }
-.save {
+.heart{
     margin-right: 5px;
+    color: red;
+}
+.save {
+    margin-right: 6px;
+    color: yellow;
 }
 p {
     font-size: 12px;
